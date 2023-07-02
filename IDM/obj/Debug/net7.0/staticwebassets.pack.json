@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\IDM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IDM.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\animated-slider.css",
+      "PackagePath": "staticwebassets\\css\\animated-slider.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\forgotPassword.css",
+      "PackagePath": "staticwebassets\\css\\forgotPassword.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\landing.css",
+      "PackagePath": "staticwebassets\\css\\landing.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\AspireSystemslogo copy.png",
+      "PackagePath": "staticwebassets\\images\\AspireSystemslogo copy.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\AspireSystemslogo.png",
+      "PackagePath": "staticwebassets\\images\\AspireSystemslogo.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bac.png",
+      "PackagePath": "staticwebassets\\images\\bac.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\background copy.jpg",
+      "PackagePath": "staticwebassets\\images\\background copy.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\blue bus.gif",
+      "PackagePath": "staticwebassets\\images\\blue bus.gif"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\booking.jpg",
+      "PackagePath": "staticwebassets\\images\\booking.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bus logo1.png",
+      "PackagePath": "staticwebassets\\images\\bus logo1.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bus-istock.jpg",
+      "PackagePath": "staticwebassets\\images\\bus-istock.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bus-tickets.jpg",
+      "PackagePath": "staticwebassets\\images\\bus-tickets.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bus.png",
+      "PackagePath": "staticwebassets\\images\\bus.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\bus_white_back.png",
+      "PackagePath": "staticwebassets\\images\\bus_white_back.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\buses.png",
+      "PackagePath": "staticwebassets\\images\\buses.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\buy-ticket-online-.jpg",
+      "PackagePath": "staticwebassets\\images\\buy-ticket-online-.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\day_bus.gif",
+      "PackagePath": "staticwebassets\\images\\day_bus.gif"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\day_bus1.gif",
+      "PackagePath": "staticwebassets\\images\\day_bus1.gif"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\daybus.gif",
+      "PackagePath": "staticwebassets\\images\\daybus.gif"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\monochrome-banner-.jpg",
+      "PackagePath": "staticwebassets\\images\\monochrome-banner-.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\notification copy.png",
+      "PackagePath": "staticwebassets\\images\\notification copy.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\notification.png",
+      "PackagePath": "staticwebassets\\images\\notification.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\offc.jpg",
+      "PackagePath": "staticwebassets\\images\\offc.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\online-bus white.jpg",
+      "PackagePath": "staticwebassets\\images\\online-bus white.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\seat.png",
+      "PackagePath": "staticwebassets\\images\\seat.png"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\images\\tourist-buying.jpg",
+      "PackagePath": "staticwebassets\\images\\tourist-buying.jpg"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\js\\animated-slider.js",
+      "PackagePath": "staticwebassets\\js\\animated-slider.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\js\\landing.js",
+      "PackagePath": "staticwebassets\\js\\landing.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Internship Project\\mvc ef\\updated\\IDM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.IDM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.IDM.props",
+      "PackagePath": "build\\IDM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.IDM.props",
+      "PackagePath": "buildMultiTargeting\\IDM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.IDM.props",
+      "PackagePath": "buildTransitive\\IDM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

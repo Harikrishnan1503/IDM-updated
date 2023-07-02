@@ -1,0 +1,89 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@if(User.IsInRole("Admin"))
+{
+    <!doctype html>
+    <html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0;URL=Admin/Show">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    </html>
+}
+@if(User.IsInRole("Employee"))
+{
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">
+        <meta http-equiv='refresh'content="10000;url=https://localhost:5260/Main/SessionExpired" />
+    </head>
+    <body>  
+        
+    <main>
+    <div class="mouse"></div>
+    <div id="app">
+        <section>
+            <div class="text">
+            <h1>Aspire Systems</h1>
+            <p>
+                <br>
+                <br>
+            </p>
+            <a asp-controller="Client" asp-action="showProfile" class="Submit">
+                <span>My Profile</span>
+            </a>
+            </div>
+            <div class="carousel">
+            <div class="card c1">
+                <img src="~/images/offc.jpg" alt="" />
+            </div>
+            <div class="card c2">
+                <img src="~/images/offc.jpg" alt="">
+            </div>
+            <div class="card c3">
+                <img src="~/images/offc.jpg" alt="" />
+            </div>
+            </div>
+        </section>
+    </div>   
+    </main>
+    <div class="text-center">
+    <img src="~/images/AspireSystemslogo.png" alt="Bus Image" style="width:50%">
+    </div> 
+    <br>
+
+    <script src="./js/script.js"></script>
+</body>
+</html>
+}
+
+@if(!User.IsInRole("Admin"))
+{
+@if(!User.IsInRole("Employee")){
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0.1;URL=Identity/Account/Login">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="~/css/landing.css" type="text/css" />
+    </head>
+    <script src="~/css/landing.css"></script>
+</html>
+
+}
+}
+<br>
+<br>

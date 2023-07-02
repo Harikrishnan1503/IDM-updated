@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] -Aspire IDM</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/IDM.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img style="width:100px;" src="~/images/AspireSystemslogo.png" alt="LOGO">
+                    </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - Aspire IDM
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <style>
+        a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+
+@@keyframes animate {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+body {
+    min-height: 50vh;
+    z-index: 1;
+    background: linear-gradient(-45deg, rgba(195, 122, 255, 0.866), rgba(122, 228, 255, 0.652), rgba(109, 109, 255, 0.608), rgba(255, 116, 236, 0.658));
+    background-size: 400% 400%;
+    width: 100%;
+    height: 100vh;
+    animation: animate 5s ease infinite;
+}
+
+.content {
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2rem;
+    /* display:inline-block; */
+    position: relative;
+    color: #ff0083;
+    margin-bottom: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    /* display:inline-block; */
+    position: relative;
+            color: #000000;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 3rem;
+    /* display:inline-block; */
+    position: relative;
+    color: black;
+    margin-bottom: 0;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0%;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 80px;
+    background-color: #ffffff;
+    text-align: center;
+    color:  #000000
+}
+
+    </style>
+</body>
+</html>
